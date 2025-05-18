@@ -1,0 +1,93 @@
+{
+  "@@locale": "en",
+  "app_title": "Coligo",
+  "@app_title": {
+    "description": "The title of the application"
+  },
+  "welcome_message": "Join our platform to send and receive your parcels using carpooling.",
+  "@welcome_message": {
+    "description": "Welcome message displayed on the landing page"
+  },
+  "login_button": "Login",
+  "@login_button": {
+    "description": "Text for the login button"
+  },
+  "register_button": "Create a new account",
+  "@register_button": {
+    "description": "Text for the register button"
+  },
+  "select_language": "Choose a language",
+  "@select_language": {
+    "description": "Text for the language selection dialog"
+  },
+
+  "token_not_found": "Token not found. Please login again.",
+
+  "nav_parcels": "Parcels",
+  "@nav_parcels": {
+    "description": "Navigation label for the Parcels page"
+  },
+  "nav_trips": "Trips",
+  "@nav_trips": {
+    "description": "Navigation label for the Trips page"
+  },
+  "nav_notifications": "Notifications",
+  "@nav_notifications": {
+    "description": "Navigation label for the Notifications page"
+  },
+  "nav_profile": "Profile",
+  "@nav_profile": {
+    "description": "Navigation label for the Profile page"
+  },
+
+  "login_title": "Login",
+  "@login_title": {
+    "description": "Title of the login screen"
+  },
+  "login_subtitle": "Please login to continue.",
+  "@login_subtitle": {
+    "description": "Subtitle of the login screen"
+  },
+  "email_hint": "Enter your email",
+  "@email_hint": {
+    "description": "Placeholder for email input field"
+  },
+  "password_hint": "Enter your password",
+  "@password_hint": {
+    "description": "Placeholder for password input field"
+  },
+  "login_button": "Login",
+  "@login_button": {
+    "description": "Text for the login button"
+  },
+  "forgot_password": "Forgot your password?",
+  "@forgot_password": {
+    "description": "Text for the forgot password link"
+  },
+  "no_account": "Don't have an account?",
+  "@no_account": {
+    "description": "Text for the sign-up suggestion"
+  },
+  "sign_up": "Sign Up",
+  "@sign_up": {
+    "description": "Text for the sign-up link"
+  },
+  "fill_all_fields": "Please fill all fields.",
+  "@fill_all_fields": {
+    "description": "Error message when fields are empty"
+  },
+  "login_successful": "Login successful! Redirecting...",
+  "@login_successful": {
+    "description": "Message shown on successful login"
+  },
+  "login_error": "Error: {errorMessage}",
+  "@login_error": {
+    "description": "Error message shown when login fails",
+    "placeholders": {
+      "errorMessage": {
+        "type": "String",
+        "example": "Invalid credentials"
+      }
+    }
+  }
+}

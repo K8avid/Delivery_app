@@ -1,0 +1,92 @@
+{
+  "@@locale": "fr",
+  "app_title": "Coligo",
+  "@app_title": {
+    "description": "Le titre de l'application"
+  },
+  "welcome_message": "Rejoignez notre plateforme pour envoyer et recevoir vos colis grâce au covoiturage.",
+  "@welcome_message": {
+    "description": "Message de bienvenue affiché sur la page d'accueil"
+  },
+  "login_button": "Connexion",
+  "@login_button": {
+    "description": "Texte du bouton de connexion"
+  },
+  "register_button": "Créer un nouveau compte",
+  "@register_button": {
+    "description": "Texte du bouton pour s'inscrire"
+  },
+  "select_language": "Choisissez une langue",
+  "@select_language": {
+    "description": "Texte pour la boîte de dialogue de sélection de la langue"
+  },
+
+  "nav_parcels": "Colis",
+  "@nav_parcels": {
+    "description": "Libellé de navigation pour la page Colis"
+  },
+  "nav_trips": "Trajets",
+  "@nav_trips": {
+    "description": "Libellé de navigation pour la page Trajets"
+  },
+  "nav_notifications": "Notifications",
+  "@nav_notifications": {
+    "description": "Libellé de navigation pour la page Notifications"
+  },
+  "nav_profile": "Profil",
+  "@nav_profile": {
+    "description": "Libellé de navigation pour la page Profil"
+  },
+
+  "login_title": "Connexion",
+  "@login_title": {
+    "description": "Titre de la page de connexion"
+  },
+  "login_subtitle": "Veuillez vous connecter pour continuer.",
+  "@login_subtitle": {
+    "description": "Sous-titre de la page de connexion"
+  },
+  "email_hint": "Entrez votre email",
+  "@email_hint": {
+    "description": "Texte indicatif pour le champ email"
+  },
+  "password_hint": "Entrez votre mot de passe",
+  "@password_hint": {
+    "description": "Texte indicatif pour le champ mot de passe"
+  },
+  "login_button": "Se connecter",
+  "@login_button": {
+    "description": "Texte pour le bouton de connexion"
+  },
+  "forgot_password": "Mot de passe oublié ?",
+  "@forgot_password": {
+    "description": "Texte pour le lien mot de passe oublié"
+  },
+  "no_account": "Vous n'avez pas de compte ?",
+  "@no_account": {
+    "description": "Texte pour la suggestion d'inscription"
+  },
+  "sign_up": "S'inscrire",
+  "@sign_up": {
+    "description": "Texte pour le lien d'inscription"
+  },
+  "fill_all_fields": "Veuillez remplir tous les champs.",
+  "@fill_all_fields": {
+    "description": "Message d'erreur lorsque les champs sont vides"
+  },
+  "login_successful": "Connexion réussie ! Redirection...",
+  "@login_successful": {
+    "description": "Message affiché après une connexion réussie"
+  },
+  "login_error": "Erreur : {errorMessage}",
+  "@login_error": {
+    "description": "Message d'erreur affiché lorsque la connexion échoue",
+    "placeholders": {
+      "errorMessage": {
+        "type": "String",
+        "example": "Identifiants incorrects"
+      }
+    }
+  },
+  "token_not_found": "Token introuvable. Veuillez vous reconnecter."
+}
