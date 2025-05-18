@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # coligo
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# delivery_app
+Application de Livraison de Colis
+>>>>>>> a49694c8d046bd4552b040b0dd41f0e97abd4a15
