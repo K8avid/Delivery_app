@@ -1,21 +1,35 @@
-<<<<<<< HEAD
-# coligo
+# Application De livraison de colis
 
-A new Flutter project.
+&emsp;Un utilisateur peut soit envoyer un colis, soit proposer de transporter un colis,  
+&emsp;auquel cas il saisit dans l'application le trajet qu'il prévoit d'effectuer.  
 
-## Getting Started
+&emsp;La gestion des différentes étapes de l'envoi d'un colis se fait grâce à des QR codes :  
+&emsp;un code pour la récupération et un autre pour la réception.  
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="/coligo_screens.png" alt="Description de l'image" width="600">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Prérequis pour compiler 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# delivery_app
-Application de Livraison de Colis
->>>>>>> a49694c8d046bd4552b040b0dd41f0e97abd4a15
+&emsp;Avoir lancé Delivery_App_Server (dans un répository séparé)
+&emsp;Avoir installé Android SDK/ Flutter SDK  
+
+## Build
+```
+1. Modifier le fichier .env avec vos informations
+2. Dans un terminal dans le dossier du projet
+
+    flutter pub get    # Récupère les dépendances
+    flutter doctor     # Vérifie l’environnement
+    flutter build apk  #Génére l'apk
+
+3. récuperer l'apk dans : build/app/outputs/flutter-apk/app-release.apk
+
+
+```
+
+
+
+
+
+
